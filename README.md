@@ -1,5 +1,5 @@
 # .dotfiles
 
 ```
-$ ln -s /Volumes/Elements/Base/Library/Application\ Support/MobileSync/Backup /Users/aki_/Library/Application\ Support/MobileSync/Backup
+$ ln -s /Volumes/Elements/Base/Library/Application\ Support/MobileSync/Backup ~/Library/Application\ Support/MobileSync/Backup
 ```
